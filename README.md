@@ -1,7 +1,9 @@
-# codecademy-solutions
-solutions to codecademy tasks (Full-stack developer certification)
+# Codecademy Solutions
+My solutions to codecademy tasks (Full-stack developer career path).
 
-## Number Guesser - JavaScript Syntax
+# Front-End
+## Number Guesser - understanding JavaScript Syntax (part I)
+  Now I am able to:
 - Understand how JavaScript is used for web development
 - Run JavaScript on your computer
 - Run JavaScript in the browser
